@@ -1,0 +1,24 @@
+@font-face {
+    font-family: 'FF Meta Georgian Book';
+    src: url('MetaGEO-Book.eot');
+    src: local('FF Meta Georgian Book'), local('MetaGEO-Book'),
+        url('MetaGEO-Book.eot?#iefix') format('embedded-opentype'),
+        url('MetaGEO-Book.woff2') format('woff2'),
+        url('MetaGEO-Book.woff') format('woff'),
+        url('MetaGEO-Book.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'FF Meta Georgian';
+    src: url('MetaGEO-Bold.eot');
+    src: local('FF Meta Georgian Bold'), local('MetaGEO-Bold'),
+        url('MetaGEO-Bold.eot?#iefix') format('embedded-opentype'),
+        url('MetaGEO-Bold.woff2') format('woff2'),
+        url('MetaGEO-Bold.woff') format('woff'),
+        url('MetaGEO-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
